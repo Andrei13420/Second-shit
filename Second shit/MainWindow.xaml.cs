@@ -22,7 +22,7 @@ namespace Second_shit
 	{
 		public MainWindow()
 		{
-			InitializeComponent();
+			asdfg
 		}
 	}
 }
